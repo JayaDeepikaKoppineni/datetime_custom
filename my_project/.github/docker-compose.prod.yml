@@ -1,0 +1,6 @@
+version: '3'
+services:
+  web:
+    image: https://lh6.googleusercontent.com/SvUujPVoURx-VUXcFU1GQl9rQtmCmOM5z4jzDVqL_HoffweWOyriKbyVNGn1MWNgbAhah8XWRnTQzZSjXJnxa00V2-PF_JYWFfmogrw4wVY2xsbSVcpQ-KvGgcAeqszSJxjuMSD_
+    ports:
+      - "80:80"
